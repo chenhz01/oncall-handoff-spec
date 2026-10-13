@@ -7,6 +7,8 @@ and optional deployments/open questions — and scores completeness on a
 0–1 scale so teams can gate handoffs in CI. Pure standard library. *No
 direct equivalent found as of 2026-10-13.*
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Handoffs fail between shifts because they are free-form prose: the incoming
